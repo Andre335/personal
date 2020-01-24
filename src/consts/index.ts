@@ -1,0 +1,1 @@
+export const bio = "I'm a Software Engineer passionate about technology, music and science. Now working for VTEX."
